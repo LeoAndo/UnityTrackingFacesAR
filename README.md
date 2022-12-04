@@ -16,4 +16,4 @@ https://github.com/LeoAndo/UnityTrackingFacesAR/issues/
 
 # capture
 
-<img width="629" alt="スクリーンショット 2022-12-03 20 19 25" src="https://user-images.githubusercontent.com/16476224/205438364-5903f358-7249-4f4c-ac5a-0ec7b40b6e29.png">
+![IMG_0453](https://user-images.githubusercontent.com/16476224/205478091-fe76b7c4-7b15-4d88-ab0c-33870b280742.png)
